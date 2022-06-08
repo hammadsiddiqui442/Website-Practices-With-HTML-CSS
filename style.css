@@ -95,6 +95,9 @@
   border: 3px solid white;
   cursor: pointer;
 }
+#buttonone:active {
+  transform: translateY(4px);
+}
 
 #buttontwo {
   background-color: transparent;
@@ -108,6 +111,9 @@
   border: 3px solid white;
   cursor: pointer;
   color: white;
+}
+#buttontwo:active {
+  transform: translateY(4px);
 }
 
 h1 {
